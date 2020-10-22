@@ -1,0 +1,5 @@
+displayName = Dacern's quality of life mod
+author = Dacern The Creator
+version = 0.1
+includePDB = true
+homepage = https://discord.gg/ZEfRQ82

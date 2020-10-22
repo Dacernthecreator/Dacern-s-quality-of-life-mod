@@ -1,0 +1,15 @@
+Subscribe to Dacern the creator on YouTube
+
+This mod adds quality of life aspecets
+
+__Current features__
+-You can convert copper and tin, iron and lead, silver and tungsten, gold and platinum, demonite and crimtane, corrupt and crimson seeds, cobalt and palladium, mythril and orichalcum, and adamantite and titanium back and forth at a tinkerers workshop.
+-Water candles are now craftable
+-VERY slightly increased movement speed, pick speed, placement speed, and jump height
+-No fall damage post WOF
+-Start off with a bone pickaxe and bone axe.
+
+
+__Check out my other mods__
+-Dacern's extra content mod
+-Dacern's skyblock mod
